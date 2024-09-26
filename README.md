@@ -37,6 +37,5 @@ react-icons <br>
 https://developer.themoviedb.org/docs/getting-started
 
 <h1>Ekran Görüntüsü </h1> <br>
-<hr>
 
 ![](public/Movie.gif)
